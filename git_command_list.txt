@@ -1,0 +1,8 @@
+
+Remove from tracked 
+
+git rm --cached Angular/node_modules -r
+
+
+To ignore nested folder from the Git
+node_modules
