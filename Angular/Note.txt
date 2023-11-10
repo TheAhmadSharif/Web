@@ -1,0 +1,8 @@
+Angular : 10 November 2023
+————————————————————————
+Install
+————————————————————————
+npm install -g @angular/cli
+npm install -g @angular/cli
+
+ext install Angular.ng-template
