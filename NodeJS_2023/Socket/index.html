@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+        <script type='text/javascript' src='/socket.io/socket.io.js'></script>
+    </head>
+    <body>
+        <script type='text/javascript'>
+       
+                 var socket = io();
+                 socket.on('news', (msg) => {
+                    console.log(msg, 'Listening');
+                 });
+
+                 socket.emit("sports", "Argentina won WC");
+                  
+
+        </script>
+    </body>
+</html>

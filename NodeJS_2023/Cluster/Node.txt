@@ -1,0 +1,10 @@
+In computer science, a data buffer (or just buffer) is a region of a memory used to store data temporarily while it is being moved from one place to another.
+
+
+In Node Js, buffers are used to store raw binary data. 
+
+In Node Js, buffers are used to store raw binary data. A buffer represents a chunk of memory that is allocated on our computer. The size of the buffer, once set, cannot be changed. A buffer is used to store bytes.
+
+
+
+https://blog.appsignal.com/2021/02/03/improving-node-application-performance-with-clustering.html

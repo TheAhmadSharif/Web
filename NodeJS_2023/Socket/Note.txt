@@ -1,0 +1,7 @@
+socket.emit Creates events to send data
+socket.on listens for specific events to collect data
+socket.send Sends events of the name message
+
+
+On Means Listen
+Emit means send

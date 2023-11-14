@@ -1,0 +1,22 @@
+——————————
+Clustering
+Buffering
+Child Process
+
+
+
+Buffering:
+——————————
+The buffers module provides a way of handling streams of binary data.
+
+
+Framework
+——————————
+NestJS
+
+
+RoadMap
+——————————
+https://github.com/saifaustcse/nodejs-developer-roadmap
+
+
