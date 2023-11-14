@@ -1,0 +1,17 @@
+What is microservices
+–––––––––––––––––––––
+Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. 
+
+RabbitMQ
+–––––––––––––––––––––
+RabbitMQ is a widely used open-source message broker that helps in scaling the application by deploying a message queuing mechanism in between the two applications.
+
+
+https://stackoverflow.com/questions/45208766/microservices-why-use-rabbitmq
+
+A message queue provide an asynchronous communications protocol 
+
+RabbitMQ can also handle background jobs or long-running tasks like PDF conversion, file scanning, or image scaling.
+
+
+RabbitMQ enables communication between various components of a distributed system, making it easier to build scalable and fault-tolerant applications. 

@@ -2,7 +2,34 @@ Angular : 10 November 2023
 ————————————————————————
 Install
 ————————————————————————
+
+https://angular.io/guide/setup-local
+
+ng new appname
+ng serve --open
+
+
+
 npm install -g @angular/cli
 npm install -g @angular/cli
 
 ext install Angular.ng-template
+
+
+————————————————————————
+Angular
+————————————————————————
+
+Server Side Rendering
+Test
+
+————————————————————————
+Typescript: 
+	Decorator
+
+Material UI
+Obserable
+RsJS
+Server Side Rendering
+Upload in Azure
+ngZone
