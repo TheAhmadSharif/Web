@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Redx</title>
+</head>
+<body>
+
+	<div id="main">
+		<input type="text" id="username" name="username" placeholder="Name" onkeypress="fireonenter(event)"/>
+		<button onClick="addName(event)">Submit</button>
+
+		<div>
+			<ul id="list">
+			</ul>
+		</div>
+	</div>	<!-- End  -->
+<script src="redux.min.js"></script>
+<script>
+	/*
+state is the global object. Reduce the value of the state.
+*/
+
+const reducer = (state = ["James Bond"], action) => {
+	if(action.type == "Increament") {
+		return [...state, action.payload]
+	}
+	return state;
+};
+const store = Redux.createStore(reducer);
+store.subscribe(() => {
+	console.log(store.getState(), 'subscribe');
+});
+
+var content = document.getElementById("username")
+
+function addName(e) {
+	store.dispatch({type: "Increament", payload: content.value });
+	console.log(content.value)
+	content.value = null;
+	content.focus();
+	renderList();
+}
+
+
+function renderList() {
+	document.getElementById('list').innerHTML = store.getState().map((person) => {
+	  return `<li>${ person }</li>`;
+	}).join('');
+  }
+
+renderList();
+content.focus();
+
+  function fireonenter(event) {
+	if (event.key === "Enter") {
+		addName();
+	}
+  }
+</script>
+
+</body>
+</html>

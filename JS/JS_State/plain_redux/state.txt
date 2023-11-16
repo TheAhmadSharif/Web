@@ -1,0 +1,9 @@
+What is state
+
+
+State is  the data which is manipulaed and reflected by your running program.
+
+https://www.codeproject.com/Tips/5310619/Why-Use-State-Management-in-Front-End-Code
+
+
+https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/?

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fetch API</title>
+</head>
+<body>
+
+	<div>
+		<h2>Fetch API</h2>
+		<p>
+			Fetch will always return something even though any error.
+		</p>
+
+		<script>
+			fetch('https://reqres.in/api/user')
+				.then((res) => res.json())
+				.then((data) => {
+					console.log(data);
+				})
+				.catch((error) => {
+					console.log(error);
+				})
+		</script>
+	</div>
+	
+	
+
+	<div>
+		<h4>Promise</h4>
+		<p>
+			I promise to do something.
+		</p>
+
+		<script>
+			let p = new Promise((resolve, reject) => {
+				let n = 1+1;
+				if(n == 1) {
+					resolve('Resolve')
+				} else {
+					reject('reject')
+				}
+			});
+
+			p.then((data) => {
+				console.log(data);
+			}).catch((error) => {
+				console.log(error)
+			})
+		</script>
+	</div>
+
+	<div>
+		<h4>Callback</h4>
+
+
+		<script>
+
+			const userLeft = false;
+			const userWatchingCatMeme = true;
+			function watchCallback(kallback, errorKallback) {
+				if(userLeft) {
+					errorKallback({
+						msg: "Error"
+					})
+				} else if (userWatchingCatMeme) {
+
+				} else {}
+					kallback('Thumbs Up')
+				}
+
+				watchCallback((msg) => {
+					console.log('success ' + msg);
+				}, (error) => {
+					console.log('error' + error);
+				})
+
+				console.clear();
+		</script>
+		
+	</div>
+
+
+
+
+	
+</body>
+</html>

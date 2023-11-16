@@ -1,0 +1,4 @@
+git show file and filder list of staged files
+git ls-files
+
+git reset --hard

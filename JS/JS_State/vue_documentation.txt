@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=FXpIoQ_rT_c&list=PL_1SCaxNJ4WQJcGVo6l1jgDJWbLkQEyAq
+
+vue create vue-todo-app
+
+npm serve

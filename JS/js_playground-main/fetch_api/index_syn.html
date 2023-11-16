@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Synchronous</title>
+</head>
+<body>
+
+
+<script>
+
+	setTimeout(() => {
+		console.log(`${a} A Async SetTimeout`);
+	}, 1);
+
+	let a = 1;
+	let b = 2;
+	console.log(`${a} Sync`);
+	
+
+
+	//a = 10;
+
+	// console.log(`${b} Sync`);
+
+
+	fetch('https://reqres.in/api/user').then(() => {
+		console.log(`${b} B Async Fetch`);
+	})
+
+	console.log(`${b} Sync`);
+</script>
+</body>
+</html>

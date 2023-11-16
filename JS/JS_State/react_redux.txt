@@ -1,0 +1,27 @@
+npx create-react-app app
+cd app
+npm start
+
+
+react routing
+
+
+npm install react-router-dom --save
+
+
+
+
+
+npm is used to download JavaScript packages from Node Package Manager, and npx is used to execute JavaScript packages downloaded this way.
+
+
+ NPX gives us a clear and easy way to run packages and helps us to avoid versioning, dependency issues, and installing unnecessary packages that we just want to test.
+ 
+
+https://www.youtube.com/watch?v=9jULHSe41ls&list=PL_1SCaxNJ4WRVdi2SOQlt27LfigtmvTNe
+ 
+
+npx create-react-app react-with-redux  --template redux
+npm install redux react-redux
+
+

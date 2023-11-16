@@ -1,0 +1,5 @@
+https://dev.to/alexeagleson/understanding-the-modern-web-stack-linters-eslint-59pm#installing-eslint
+npm install eslint --save-dev
+npx eslint index.js
+
+npm install eslint-config-airbnb --save-dev
