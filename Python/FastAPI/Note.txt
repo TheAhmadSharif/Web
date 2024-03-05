@@ -1,0 +1,17 @@
+pip install fastapi
+pip install "uvicorn[standard]"
+
+
+Run the server with:
+uvicorn main:app --reload
+
+http://localhost:8000/items/4?q=test
+
+http://localhost:8000/docs
+http://127.0.0.1:8000/openapi.json
+
+
+Test
+––––––––––––––––––
+https://fastapi.tiangolo.com/tutorial/testing/
+pip install httpx

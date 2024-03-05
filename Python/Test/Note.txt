@@ -1,0 +1,2 @@
+https://docs.pytest.org/en/7.4.x/getting-started.html#get-started
+pip install -U pytest
