@@ -1,0 +1,88 @@
+https://frontbook.dev/
+https://www.materialui.co/colors
+https://icons8.com/ouch
+https://www.npmjs.com/package/faker
+https://leafletjs.com/
+https://jaredreich.com/pell/
+canva.com
+https://agentpekka.com/about/
+
+
+
+
+NobogongaMJ
+KongshoMJ
+
+
+https://echarts.apache.org/examples/en/editor.html?c=pie-simple
+
+————————————————————————————————————————
+React
+————————————————————————————————————————
+https://www.valentinog.com/blog/redux/
+http://samirdas.com/what-is-redux-and-why-do-we-need-it/
+https://daveceddia.com/redux-tutorial/
+
+
+https://medium.com/@nomanbinhussein/reactjs-todo-app-tutorial-with-redux-57ca14cae621
+
+https://www.youtube.com/watch?v=MRIMT0xPXFI
+————————————————————————————————————————
+Free Image
+————————————————————————————————————————
+http://pngimg.com/
+https://pixabay.com/
+
+
+Typography
+————————————————————————————————————————
+Sans-Serif Font
+————————————————————————————————————————
+Apple Similar Font
+
+- Roboto
+- Poppins
+- Karla
+- Work Sans
+- Heebo
+————————————————————————————————————————
+Bangla Font
+————————————————————————————————————————
+NobogongaMJ
+https://www.lipipotro.com/top-540-bangla-stylish-fonts/
+————————————————————————————————————————
+Serif Font
+————————————————————————————————————————
+- Georgia
+- Old Standard TT
+- Droid Sans
+
+
+
+Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif
+
+https://docs.microsoft.com/en-us/typography/font-list/georgia
+
+
+————————————————————————————————————————
+Logo Font
+————————————————————————————————————————
+josef müller-brockmann
+Badoni
+didot
+Abril Fatface
+
+
+
+————————————————————————————————————————
+Bootstrap
+————————————————————————————————————————
+https://getbootstrap.com/docs/4.0/getting-started/build-tools/
+
+1. navigate bootstrap folder
+2. npm install
+3. npm run dist
+4. npm install -g sass
+
+
+2. npm run dist creates the /dist directory with compiled files.

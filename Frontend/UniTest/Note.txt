@@ -1,0 +1,17 @@
+–––––––––– 20 April 2024 ––––––––––
+https://vitest.dev/guide/
+
+npm install -D vitest
+npm install --save-dev jsdom
+npm test
+
+what is assertion in unit test
+–––––––––––––––––––––––––––––––
+In essence, assertions are used to declare the expected behavior or outcome of a test.
+
+
+
+Test file must be small letter.
+–––––––––––––––––––––––––––––––
+OK      App.test.js
+NOT.OK  App.Test.js
