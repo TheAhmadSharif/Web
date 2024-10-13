@@ -1,25 +1,14 @@
 ### I consistently integrate Frontend and Backend code in this repository.
-------------------
 
-Date: 16 November 2023
+**Technologies:**
 
+* **Frontend Frameworks:**
+    * Angular ([Code Repository](https://github.com/TheAhmadSharif/ng.ecom), [Demo](https://theahmadsharif.github.io/ng.ecom/))
+    * React ([Code Repository](https://github.com/TheAhmadSharif/react.ecom), [Demo](https://theahmadsharif.github.io/react.ecom/))
+    * Vue
+    * Vanilla JS
+* **Backend Technologies:**
+    * Node.js
+    * FastAPI
 
-
-
-**Frontend**
----------
-* Angular
-https://github.com/TheAhmadSharif/ng.ecom
-https://theahmadsharif.github.io/ng.ecom/
-
-* React
-https://github.com/TheAhmadSharif/react.ecom
-
-* Vue
-* Vanila JS
-
-
-Backend
----------
-* NodeJS
-* FastAPI
+**Date:** November 16, 2023
