@@ -12,7 +12,7 @@
     * Tic Tac Toe Game: [Github Code] ([Github Code](https://github.com/TheAhmadSharif/tictac), [Demo](https://theahmadsharif.github.io/tictac))
 
 
-     * Tic Tac Toe Game: [Github Code] ([Github Code](https://github.com/TheAhmadSharif/html5/wall.html), [Demo](https://theahmadsharif.github.io/html5/wall.html))
+     * HTML5: [Github Code] ([Github Code](https://github.com/TheAhmadSharif/html5), [Demo](https://theahmadsharif.github.io/html5/wall.html))
     
     
 
