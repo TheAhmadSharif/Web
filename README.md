@@ -1,17 +1,17 @@
 **Technologies:**
 
 * **Frontend Frameworks:**
-   * **Angular**: [📂 GitHub](https://github.com/TheAhmadSharif/ng.ecom) | [🌐 Demo](https://theahmadsharif.github.io/ng.ecom/)
-   * **React**: [📂 GitHub](https://github.com/TheAhmadSharif/react.ecom) | [🌐 Demo](https://theahmadsharif.github.io/react.ecom/)
-   * **Redux**: [📂 GitHub](https://github.com/TheAhmadSharif/Web/tree/main/Frontend/Redux)
+   * **Angular**: <a href="https://github.com/TheAhmadSharif/ng.ecom" target="_blank">📂 GitHub</a> | <a href="https://theahmadsharif.github.io/ng.ecom/" target="_blank">🌐 Demo</a>
+   * **React**: <a href="https://github.com/TheAhmadSharif/react.ecom" target="_blank">📂 GitHub</a> | <a href="https://theahmadsharif.github.io/react.ecom/" target="_blank">🌐 Demo</a>
+   * **Redux**: <a href="https://github.com/TheAhmadSharif/Web/tree/main/Frontend/Redux" target="_blank">📂 GitHub</a>
 
 * **Additional Frontend Projects:**
-   * **Calculator**: [📂 GitHub](https://github.com/TheAhmadSharif/calculator) | [🌐 Demo](https://theahmadsharif.github.io/calculator)
-   * **Tic Tac Toe Game**: [📂 GitHub](https://github.com/TheAhmadSharif/tictac) | [🌐 Demo](https://theahmadsharif.github.io/tictac)
-   * **HTML5 Wall**: [📂 GitHub](https://github.com/TheAhmadSharif/html5) | [🌐 Demo](https://theahmadsharif.github.io/html5/wall.html)
+   * **Calculator**: <a href="https://github.com/TheAhmadSharif/calculator" target="_blank">📂 GitHub</a> | <a href="https://theahmadsharif.github.io/calculator" target="_blank">🌐 Demo</a>
+   * **Tic Tac Toe Game**: <a href="https://github.com/TheAhmadSharif/tictac" target="_blank">📂 GitHub</a> | <a href="https://theahmadsharif.github.io/tictac" target="_blank">🌐 Demo</a>
+   * **HTML5 Wall**: <a href="https://github.com/TheAhmadSharif/html5" target="_blank">📂 GitHub</a> | <a href="https://theahmadsharif.github.io/html5/wall.html" target="_blank">🌐 Demo</a>
 
 * **Backend Technologies:**
-   * **Node.js**: [📂 GitHub](https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/NodeJS_2023)
-   * **FastAPI**: [📂 GitHub](https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/Python/FastAPI)
+   * **Node.js**: <a href="https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/NodeJS_2023" target="_blank">📂 GitHub</a>
+   * **FastAPI**: <a href="https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/Python/FastAPI" target="_blank">📂 GitHub</a>
 
 **Date:** November 16, 2023
