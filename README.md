@@ -1,4 +1,17 @@
-**Technologies:**
+###  Hi, I’m Ahmad Sharif
+
+I am interested in working in the following areas: ML, Data Analysis, Web.
+
+**📊 ML/Data Analysis Toy Projects | Kaggle |** <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="44"/> 
+
+- [Finland Football Team Performance Analysis](https://www.kaggle.com/code/ahmadsharif/footballteam-performance-analysis)
+- [Finland Electricity Production Analysis ](https://www.kaggle.com/code/ahmadsharif/finland-electricity-production-analysis)  
+- [Olympic Medals vs GDP per Capita](https://www.kaggle.com/code/ahmadsharif/olympic-medals-vs-gdp-per-capita)  
+- [Everest Expedition](https://www.kaggle.com/code/ahmadsharif/everest-expedtion)  
+
+---
+**🌐 Web Technologies:** 
+
 
 * **Frontend Frameworks:**
    * **Angular**: <a href="https://github.com/TheAhmadSharif/ng.ecom" target="_blank">📂 GitHub</a> | <a href="https://theahmadsharif.github.io/ng.ecom/" target="_blank">🌐 Demo</a>
@@ -14,4 +27,4 @@
    * **Node.js**: <a href="https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/NodeJS_2023" target="_blank">📂 GitHub</a>
    * **FastAPI**: <a href="https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/Python/FastAPI" target="_blank">📂 GitHub</a>
 
-**Date:** November 16, 2023
+---
